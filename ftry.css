@@ -336,7 +336,7 @@ body{
 {
   .site-footer [class^=col-]
   {
-    margin-bottom:30px
+    margin-bottom:10px
   }
 }
 @media (max-width:767px)
