@@ -79,6 +79,14 @@ body{
     -o-background-size: cover;
     background-size: cover;
   }
+	.masthead {
+    height: 55vh;
+    min-height: 100px;
+    background-image: url('2150811.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
 }
   .masthead {
     height: 100vh;
