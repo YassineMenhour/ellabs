@@ -72,7 +72,7 @@ body{
     width: 100%;
     height: 100%;
     min-height: 500px;
-    background-image: url('https://source.unsplash.com/BtbjCFUvBXs/1920x1080');
+    background-image: url('white-cubes.jpg');
 }
   .gallery-block{
    
@@ -86,6 +86,7 @@ body{
     font-size: 100px;
 }
 .heading h1{
+	color: rgb(207, 100, 11);
     font-size: 100px;
 }
 
@@ -137,9 +138,10 @@ body{
 	}
 }
 #team{
-    background-image: url('white-cubes.jpg');
+    background-image: url('2150811.jpg');
 }
 #tcnt{
+	
     height: auto;
 
 }
@@ -232,7 +234,7 @@ body{
 	transition:1s;
 }
 #tcnt h1{
-    color: white;
+    color: rgb(207, 100, 11);
     font-size: 100px;
     text-align: center;
     padding-top: 30px;
@@ -423,7 +425,7 @@ body{
     font-size: 60px;
 }
 	#tcnt h1{
-    color: white;
+    color: rgb(207, 100, 11);
     font-size: 60px;
     text-align: center;
     padding-top: 30px;
