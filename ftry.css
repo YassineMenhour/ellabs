@@ -62,7 +62,7 @@ body{
     height: 100vh;
     min-height: 500px;
     background-image: url('images1.jpg');
-	opacity: 0.8;
+	opacity: 0.7;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -73,7 +73,7 @@ body{
     width: 100%;
     height: 100%;
     min-height: 500px;
-    background-image: url(nice-gradient.jpg');
+    background-image: url('nice-gradient.jpg');
 	opacity: 0.5;
 }
   .gallery-block{
