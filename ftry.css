@@ -65,8 +65,20 @@ body{
 @media (max-width:500px)
 { .carousel-caption
   {
-	 width: 80%;
+	 background-color: rgba(0, 0, 0, 0.4);
+      width: 80%;
       margin: auto;
+      
+      font-weight: 600 ;
+  }
+	.carousel-item {
+    height: 55vh;
+    min-height: 100px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
   }
 }
   .masthead {
